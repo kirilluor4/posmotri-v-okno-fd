@@ -97,7 +97,7 @@ video {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  max-width: 100%;
+  max-width: 196px;
 }
 
 .content__video-card-description {
@@ -107,6 +107,7 @@ video {
   color: #FFF;
   line-height: 16.2px;
   letter-spacing: 0%;
+  max-width: 196px;
 }
 
 .content__video-card-thumbnail {
